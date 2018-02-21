@@ -1,5 +1,6 @@
 # weekly
 Weekly topic for study.
 
-- PHP delay queue based on Redis.
+- 01. PHP delay queue based on Redis.
+- 02. CDC
 
