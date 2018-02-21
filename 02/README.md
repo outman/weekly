@@ -3,7 +3,9 @@
 ### Usage
 
 > composer install
+
 > cp .env.example .env // update with your account.
+
 > php application.php test:mysql-replication
 
 
