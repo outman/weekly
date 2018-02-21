@@ -1,12 +1,10 @@
-### CDC
+## CDC
 
 ### Usage
 
-> composer install
-
-> cp .env.example .env // update with your account.
-
-> php application.php test:mysql-replication
+    composer install
+    cp .env.example .env // update with your config.
+    php application.php test:mysql-replication
 
 
     ➜ php application.php test:mysql-replication
